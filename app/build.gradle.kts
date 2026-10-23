@@ -11,7 +11,7 @@ android {
         applicationId = "com.agendio.app"
         minSdk = 24
         targetSdk = 34
-        versionCode = 10
+        versionCode = 12
         versionName = "2.0"
     }
 

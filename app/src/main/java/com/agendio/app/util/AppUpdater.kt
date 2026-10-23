@@ -32,7 +32,7 @@ object AppUpdater {
      * https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/versao.json
      */
     const val UPDATE_JSON_URL =
-        "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/versao.json"
+        "https://raw.githubusercontent.com/supertela/agenda-tati-barros/main/versao.json"
 
     fun checkForUpdate(
         context: Context,
