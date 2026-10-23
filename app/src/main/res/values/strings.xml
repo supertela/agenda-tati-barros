@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda Tati Barros</string>
+    <string name="brand_name">Tati Barros</string>
+    <string name="brand_tagline">Manicure • Agenda &amp; Gestão</string>
+    <string name="credits">Desenvolvido por Andreo Silva</string>
+    <string name="instagram_handle">@tatibarrosmanicure</string>
+    <string name="instagram_url" translatable="false">https://www.instagram.com/tatibarrosmanicure/</string>
+
+    <string name="nav_home">Início</string>
+    <string name="nav_agenda">Agenda</string>
+    <string name="nav_clients">Clientes</string>
+    <string name="nav_services">Serviços</string>
+    <string name="nav_finance">Financeiro</string>
+
+    <string name="channel_name">Agendamentos Tati Barros</string>
+    <string name="channel_description">Avisos dos atendimentos da Agenda Tati Barros</string>
+    <string name="reminder_title">Agenda Tati Barros • lembrete</string>
+    <string name="reminder_text">%1$s às %2$s — %3$s</string>
+    <string name="reminder_fallback">Atendimento às %1$s</string>
+
+    <string name="whatsapp_message">Oi, %1$s! 💜✨\n\nSeu horário está confirmado na *Tati Barros*! 💅🏻🤍\n\n📅 *Data:* %2$s\n⏰ *Horário:* %3$s\n💖 *Procedimentos:* %4$s\n\nSerá um prazer cuidar de você! 🥰\n\nQualquer dúvida, é só me chamar por aqui. Te espero! 💕</string>
+    <string name="whatsapp_no_phone">Este cliente não tem telefone cadastrado.</string>
+    <string name="whatsapp_unavailable">Não foi possível abrir o WhatsApp neste aparelho.</string>
+
+    <string name="import_contacts">Importar contatos do celular</string>
+    <string name="import_calendar">Importar agenda do celular</string>
+    <string name="instagram">Instagram</string>
+    <string name="about">Sobre o app</string>
+    <string name="import_permission_denied">Permissão necessária. Autorize o acesso nas configurações do Android.</string>
+</resources>
